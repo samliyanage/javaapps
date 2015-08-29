@@ -1,1 +1,1 @@
-Product: Java Apps 
+Product: Java EE Apps 
